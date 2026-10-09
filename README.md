@@ -22,7 +22,7 @@ I build practical infrastructure that gives LLM agents better ways to
 
 | Project | Focus | What it does |
 |---|---|---|
-| 📏 **[MCPMeter](https://github.com/stickleetoto/MCPMeter)** | MCP observability | Local-first MCP measurement proxy for token usage, per-tool cost, traffic, latency, and comparable traces. |
+| 🛡️ **[Cognitive Guard](https://github.com/DevSeat/devseat-cognitive-guard-public)** | Agent context optimization | Deterministic, model-agnostic Python library for reducing assembled context before model calls. |
 | ⚙️ **[Yekaterina](https://github.com/stickleetoto/Yekaterina)** | Agent compute | Compact computation engine for LLM agents with a small MCP surface backed by a large operation set. |
 | 🚀 **[GitMake](https://github.com/stickleetoto/GitMake)** | GitHub automation | Safety-first publishing automation with MCP support, review gates, undo, and post-publish verification. |
 | 🔎 **[Smart Kernel Brain](https://github.com/stickleetoto/Smart-Kernel-Brain)** | Local systems | High-performance local file locator with a single-binary Windows workflow, daemon mode, and MCP integration. |
