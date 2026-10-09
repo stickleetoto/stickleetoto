@@ -2,7 +2,9 @@
 
 # stickleetoto
 
-### Building **DevSeat** — systems and developer tools for AI agents.
+### Software Engineering Student | AI Systems & Developer Infrastructure
+
+Building **DevSeat** — reliable systems and developer tools for AI agents.
 
 <p>
   <img src="https://img.shields.io/badge/AI_Agents-Systems-111827?style=flat-square" alt="AI Agents" />
@@ -11,8 +13,8 @@
   <img src="https://img.shields.io/badge/Open_Source-Building-111827?style=flat-square" alt="Open Source" />
 </p>
 
-I build practical infrastructure that gives LLM agents better ways to  
-**compute, measure, search, and ship software.**
+I design and validate practical infrastructure that helps AI agents  
+**compute, optimize context, discover files, and ship software safely.**
 
 </div>
 
@@ -26,6 +28,14 @@ I build practical infrastructure that gives LLM agents better ways to
 | ⚙️ **[Yekaterina](https://github.com/stickleetoto/Yekaterina)** | Agent compute | Compact computation engine for LLM agents with a small MCP surface backed by a large operation set. |
 | 🚀 **[GitMake](https://github.com/stickleetoto/GitMake)** | GitHub automation | Safety-first publishing automation with MCP support, review gates, undo, and post-publish verification. |
 | 🔎 **[Smart Kernel Brain](https://github.com/stickleetoto/Smart-Kernel-Brain)** | Local systems | High-performance local file locator with a single-binary Windows workflow, daemon mode, and MCP integration. |
+
+## How I work
+
+- **Design:** Define requirements, architecture, interfaces, and safety constraints.
+- **Orchestrate:** Delegate implementation tasks to AI coding agents and coordinate iterations.
+- **Validate:** Evaluate test results, regressions, and benchmarks against explicit acceptance criteria.
+
+My focus is on accountable, evidence-driven development, including the trade-offs and limitations of agent-assisted engineering.
 
 ## Currently building
 
